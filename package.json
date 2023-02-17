@@ -1,0 +1,27 @@
+{
+  "name": "what-tootie-eats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matansocher/what-tootie-eats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matansocher/what-tootie-eats/issues"
+  },
+  "homepage": "https://github.com/matansocher/what-tootie-eats#readme",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
